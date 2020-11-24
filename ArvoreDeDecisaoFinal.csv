@@ -1,0 +1,64 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;Sqf_basement é menor ou igual a 420 ? SIM OU NÃO;SIM;2;NÃO;3
+2;Sqft_lot menor ou igual a 273556.5 ? SIM OU NÃO;SIM;4;NÃO;5
+3;NÓ FOLHA;O imóvel está abaixo da média;;;
+4;floors é menor ou igual a 1.25 ? SIM OU NÃO;SIM;6;NÃO;7
+5;NÓ FOLHA;O imóvel está acima da média;;;
+6;yr_build menor ou igual a 1985.5 ? SIM OU NÃO;SIM;8;NÃO;9
+7;yr_build menor ou igual a 1993.5 ? SIM OU NÃO;SIM;10;NÃO;11
+8;sqft_living15 menor ou igua a 0.5 ? SIM OU NÃO;SIM;12;NÃO;13
+9;sqft_living15 menor ou igua a 0.5 ? SIM OU NÃO;SIM;14;NÃO;15
+10;bathrooms menor ou igual a 0.875 ? SIM OU NÃO;SIM;16;NÃO;17
+11;sqft_lot menor ou igual a 68408.5 ? SIM OU NÃO;SIM;18;NÃO;19
+12;sqft_lot menor ou igual a 27556.5 ? SIM OU NÃO;SIM;20;NÃO;21
+13;bathrooms menor ou igual a 2.375 ? SIM OU NÃO;SIM;22;NÃO;23
+14;grade menor ou igual a 8.5 ? SIM OU NÃO;SIM;24;NÃO;25
+15;bathrooms menor ou igual a 2.25 ? SIM OU NÃO;SIM;26;NÃO;27
+16;NÓ FOLHA;O imóvel está acima da média;;;
+17;yr_build menor ou igual a 1978.5 ? SIM OU NÃO;SIM;28;NÃO;29
+18;sqft_lot menor ou igual a 11783 ? SIM OU NÃO;SIM;30;NÃO;31
+19;NÓ FOLHA;O imóvel está acima da média;;;
+20;sqft_lot menor ou igual a 20037 ? SIM OU NÃO;SIM;32;NÃO;33
+21;NÓ FOLHA;O imóvel está acima da média;;;
+22;NÓ FOLHA;O imóvel está abaixo da média;;;
+23;NÓ FOLHA;O imóvel está acima da média;;;
+24;NÓ FOLHA;O imóvel está abaixo da média;;;
+25;NÓ FOLHA;O imóvel está acima da média;;;
+26;NÓ FOLHA;O imóvel está acima da média;;;
+27;NÓ FOLHA;O imóvel está abaixo da média;;;
+28;bathrooms menor ou igual a 2.625 ? SIM OU NÃO;SIM;34;NÃO;35
+29;NÓ FOLHA;O imóvel está abaixo da média;;;
+30;bathrooms menor ou igual a 2.125 ? SIM OU NÃO;SIM;36;NÃO;37
+31;sqft_living15 menor ou igual a 0.5 ? SIM OU NÃO;SIM;38;NÃO;39
+32;sqft_lo menor ou igual a 12612 ? SIM OU NÃO;SIM;40;NÃO;41
+33;NÓ FOLHA;O imóvel está abaixo da média;;;
+34;grade menor ou igual a 6.5 ? SIM OU NÃO;SIM;42;NÃO;43
+35;NÓ FOLHA;O imóvel está acima da média;;;
+36;NÓ FOLHA;O imóvel está acima da média;;;
+37;NÓ FOLHA;O imóvel está abaixo da média;;;
+38;NÓ FOLHA;O imóvel está abaixo da média;;;
+39;sqft_lot menor ou igual a 26565.5 ? SIM OU NÃO;SIM;44;NÃO;45
+40;sqft_lot menor ou igual a 12310 ? SIM OU NÃO;SIM;46;NÃO;47
+41;yr_built menor ou igual a 1981 ? SIM OU NÃO;SIM;48;NÃO;49
+42;NÓ FOLHA;O imóvel está abaixo da média;;;
+43;bathrooms menor ou igual a 1.875 ? SIM OU NÃO;SIM;50;NÃO;51
+44;bathrooms menor ou igual a 3.5 ? SIM OU NÃO;SIM;52;NÃO;53
+45;sqft_lot menor ou igual a 46623.5 ? SIM OU NÃO;SIM;54;NÃO;55
+46;yr_built menor ou igual a 1914 ? SIM OU NÃO;SIM;56;NÃO;57
+47;NÓ FOLHA;O imóvel está abaixo da média;;;
+48;NÓ FOLHA;O imóvel está acima da média;;;
+49;yr_built menor ou igual a 1983 ? SIM OU NÃO;SIM;58;NÃO;59
+50;sqft_lot menor ou igual a 6250 ? SIM OU NÃO;SIM;60;NÃO;61
+51;NÓ FOLHA;O imóvel está abaixo da média;;;
+52;NÓ FOLHA;O imóvel está abaixo da média;;;
+53;NÓ FOLHA;O imóvel está abaixo da média;;;
+54;NÓ FOLHA;O imóvel está acima da média;;;
+55;yr_build menor ou igual a 1996.5 ?;SIM;62;NÃO;63
+56;NÓ FOLHA;O imóvel está abaixo da média;;;
+57;NÓ FOLHA;O imóvel está acima da média;;;
+58;NÓ FOLHA;O imóvel está abaixo da média;;;
+59;NÓ FOLHA;O imóvel está acima da média;;;
+60;NÓ FOLHA;O imóvel está abaixo da média;;;
+61;NÓ FOLHA;O imóvel está acima da média;;;
+62;NÓ FOLHA;O imóvel está abaixo da média;;;
+63;NÓ FOLHA;O imóvel está acima da média;;;
